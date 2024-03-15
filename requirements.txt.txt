@@ -1,0 +1,4 @@
+nltk
+textblob
+flask
+scikit-learn
